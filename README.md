@@ -1,4 +1,4 @@
-# co44344488400c4452701d40a
+# mytraveljournal
 
 Quick start:
 
